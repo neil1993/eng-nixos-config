@@ -3,8 +3,8 @@
   programs.git = {
     enable = true;
 
-    userName = "Frost-Phoenix";
-    userEmail = "67cyril6767@gmail.com";
+    userName = "neil1993";
+    userEmail = "neilwoodcock1993@gmail.com";
 
     extraConfig = {
       init.defaultBranch = "main";
@@ -17,7 +17,7 @@
           "gh:"
           "https://github.com/"
         ];
-        "git@github.com:frost-phoenix/".insteadOf = "fp:";
+        "git@github.com:neil1993/".insteadOf = "nw:";
       };
       core.excludesFile = "/home/${username}/.config/git/.gitignore";
     };
