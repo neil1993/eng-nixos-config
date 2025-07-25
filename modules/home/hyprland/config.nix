@@ -383,7 +383,7 @@ in
     };
 
     extraConfig = "
-      monitor=,preferred,auto,auto
+      monitor=,1920x1080,auto,auto
 
       xwayland {
         force_zero_scaling = true
