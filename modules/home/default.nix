@@ -10,6 +10,7 @@
     ./discord.nix                     # discord
     ./fastfetch.nix                   # fetch tool
     ./flow.nix                        # terminal text editor
+    ./freecad.nix                 # CAD software
     ./fzf.nix                         # fuzzy finder
     ./gaming.nix                      # packages related to gaming
     ./ghostty.nix                     # terminal
